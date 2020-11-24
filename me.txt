@@ -15,7 +15,7 @@
 <li>JQuery</li>
 <li>React JS</li>
 <li>MS SQL</li>
-<li>Oracle</>
+<li>Oracle</li>
 <li>Linux Basics</li>
 </ul>
 

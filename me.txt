@@ -1,10 +1,10 @@
 <h4>Hey There! This is the portflio website in the skin of a terminal.</h4>
 
-<span id="a">Sagun@JS_lover</span>:<span id="b">~</span><span id="c">$</span> ls<br/>
+<span id="a">Sagun@Sagun</span>:<span id="b">~</span><span id="c">$</span> ls<br/>
 <span id="c">about.txt</span><br>
-<span id="a">Sagun@JS_lover</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
+<span id="a">Sagun@Sagun</span>:<span id="b">~</span><span id="c">$</span> cat about.txt<br/><br/>
 
-<p>I like to introduce myself as JavaScript Lover. I'm ordinary guy, highly passionate on programming.</p>
+<p>I like to introduce myself as a self motivated developer with fertile mind.</p>
 
 <p>My technical Skillsets Involve:
 <ul>
@@ -13,8 +13,9 @@
 <li>Bootstrap</li>
 <li>JavaScript</li>
 <li>JQuery</li>
-<li>React JS with Redux</li>
-<li>Vue JS</li>
+<li>React JS</li>
+<li>MS SQL</li>
+<li>Oracle</>
 <li>Linux Basics</li>
 </ul>
 
@@ -30,10 +31,4 @@ Please Check out the Following links:<br>
 You can contact me through email as well from this <a href="https://gireesagun998@gmail.com" target='_blank'>Link</a>.
 
 
-<p>Being a developer, I like to keep things simple. My goals are to focus on typography and content.
-
-I'm attentive on making web application user friendly along with run application across different devices using latest technogies available.
-
-I like to code things from scratch, and enjoy bringing ideas to life in the browser.<br>
-</p>
 <p>Happy Coding!</p>

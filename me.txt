@@ -9,13 +9,12 @@
 <p>My technical Skillsets Involve:
 <ul>
 <li>HTML 5</li>
-<li>CSS 3</li>
+<li>CSS 3, SCSS</li>
 <li>Bootstrap</li>
 <li>JavaScript</li>
 <li>JQuery</li>
 <li>React JS</li>
-<li>MS SQL</li>
-<li>Oracle</li>
+<li>MS SQL, Oracle</li>
 <li>Linux Basics</li>
 </ul>
 
